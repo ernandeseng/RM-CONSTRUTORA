@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Modern construction site for hero background",
+      "imageUrl": "https://images.unsplash.com/photo-1519662978799-2f05096d3636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzYzNDgxOTg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern architecture"
+    },
+    {
+      "id": "project-1",
+      "description": "Modern residential house project",
+      "imageUrl": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2Rlcm4lMjBob3VzZXxlbnwwfHx8fDE3NjM1MzYyNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern house"
+    },
+    {
+      "id": "project-2",
+      "description": "Commercial building exterior",
+      "imageUrl": "https://images.unsplash.com/photo-1531972111231-7482a960e109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b2ZmaWNlJTIwYnVpbGRpbmd8ZW58MHx8fHwxNzYzNDkwMDI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "office building"
+    },
+    {
+      "id": "project-3",
+      "description": "Interior renovation of a living room",
+      "imageUrl": "https://images.unsplash.com/photo-1724582586529-62622e50c0b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2Rlcm4lMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjM1MzMwNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern interior"
+    },
+    {
+      "id": "project-4",
+      "description": "Structural work on a large building",
+      "imageUrl": "https://images.unsplash.com/photo-1694521787162-5373b598945c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb25zdHJ1Y3Rpb24lMjBzaXRlfGVufDB8fHx8MTc2MzUyNzk5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction site"
+    },
+    {
+      "id": "project-5",
+      "description": "Luxurious apartment complex",
+      "imageUrl": "https://images.unsplash.com/photo-1534655610770-dd69616f05ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcGFydG1lbnQlMjBidWlsZGluZ3xlbnwwfHx8fDE3NjM1MTQyMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "apartment building"
+    },
+    {
+      "id": "project-6",
+      "description": "Suburban family home",
+      "imageUrl": "https://images.unsplash.com/photo-1628624747186-a941c476b7ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdWJ1cmJhbiUyMGhvbWV8ZW58MHx8fHwxNzYzNDg0NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "suburban home"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Avatar for a client testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1607529378676-a20456ee2f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2MzUyMTcyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Avatar for another client testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1573496527892-904f897eb744?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjBwZXJzb258ZW58MHx8fHwxNzYzNTIxMTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional person"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Avatar for a third client testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYXBweSUyMGNsaWVudHxlbnwwfHx8fDE3NjM0NTIzNjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy client"
+    }
+  ]
+}
